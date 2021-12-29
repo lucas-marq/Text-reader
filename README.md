@@ -1,0 +1,1 @@
+Este é um projeto que lê um texto pré escrito, (no caso está no arquivo frase.txt), para pessoas que dejesam fazer um programa para deficientes visuais, ou somente para fazer um bot que lê um texto.

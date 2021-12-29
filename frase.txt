@@ -1,0 +1,1 @@
+Essa é uma frase teste, simulando como o programa vai agir em uma situação de leitura real de um texto
